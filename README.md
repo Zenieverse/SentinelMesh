@@ -5,6 +5,9 @@ App Demo:
 https://4itu41hmggopkd91uxl8.share.dreamflow.app
 
 
+<img width="1024" height="1536" alt="IMG_1359" src="https://github.com/user-attachments/assets/940bbd71-5035-4924-b1c8-e7b2a530bc04" />
+
+
 Agentic AI for Real-Time Cyber Fraud Defense. Core Idea SentinelMesh is an AI agent system that: Detects fraud patterns in real-time Identifies scam messages (romance scams, phishing, social engineering) Monitors suspicious financial activity Issues alerts Provides human-readable explanations Auto-generates fraud evidence packages (PDF or structure
 
 SentinelMesh envisions a world where everyday people, enterprises, and financial institutions are protected from the fastest-growing digital threat category:
